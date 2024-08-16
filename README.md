@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SrijitaBhattacharyya
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m a Full Stack Developer
+- 🌱 I’m currently working in MEAN stack
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 You can reach me here-> srijitabhattacharyya2@gmail.com
 
